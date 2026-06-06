@@ -1,0 +1,20 @@
+{
+  "name": "pokemon-explorer",
+  "version": "1.0.0",
+  "description": "A modern web application for exploring Pokémon data with detailed information cards and responsive design",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js"
+  },
+  "keywords": ["pokemon", "web-app", "express", "bootstrap", "javascript", "node.js"],
+  "author": "Eugene Fawcett",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
+
